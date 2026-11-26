@@ -1,2 +1,1 @@
 0.1.9
-https://github.com/Keth9/falion-version/releases/latest/download/FalionLauncher.exe
